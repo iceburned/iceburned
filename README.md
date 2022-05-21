@@ -24,7 +24,6 @@
 | photography, communication groups, seeing landmarks, traveling, cooking.                                       |
 +----------------------------------------------------------------------------------------------------------------+
 
-
 +----------------------------------------------| Have knowledge about |------------------------------------------+ 
  <img src="https://github.com/iceburned/iceburned/blob/9fc749bacfe179db22fbbffb8a47cfc1f4fc6a92/python_logo.png" alt="Python" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/9fc749bacfe179db22fbbffb8a47cfc1f4fc6a92/mysq.png" alt="MySQL" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/9fc749bacfe179db22fbbffb8a47cfc1f4fc6a92/windows.png" alt="Windows" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/9fc749bacfe179db22fbbffb8a47cfc1f4fc6a92/github.png" alt="Git" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/9fc749bacfe179db22fbbffb8a47cfc1f4fc6a92/linux.png" alt="Git" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/9fc749bacfe179db22fbbffb8a47cfc1f4fc6a92/ubuntu.png" alt="Ubuntu" width="35" height="35" />
 +----------------------------------------------------------------------------------------------------------------+
