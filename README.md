@@ -31,7 +31,14 @@ alt="MySQL" width="35" height="35" /><img src="https://github.com/iceburned/iceb
 alt="Windows" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/main/png/github.png" 
 alt="Git" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/main/png/linux.png" 
 alt="Git" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/main/png/ubuntu.png" 
-alt="Ubuntu" width="35" height="35" />
+alt="Ubuntu" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/main/png/amazon-aws.png" 
+alt="amazon-aws" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/main/png/djangoproject.png" 
+alt="djangoproject" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/main/png/docker.png" 
+alt="docker" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/main/png/laravel.png" 
+alt="laravel" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/main/png/php.png" 
+alt="php" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/main/png/postgresql.png" 
+alt="postgresql" width="35" height="35" /><img src="https://github.com/iceburned/iceburned/blob/main/png/shopify.png" 
+alt="shopify" width="35" height="35" />
 +----------------------------------------------------------------------------------------------------------------+
 
 +-----------------------------------------------| Social connections |-------------------------------------------+
